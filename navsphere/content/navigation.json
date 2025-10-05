@@ -7,10 +7,10 @@
       "items": [
         {
           "id": "1_2",
-          "title": "Vercel",
-          "href": "https://vercel.com/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-          "icon": "/assets/images/logos/vercel.png",
+          "title": "网盘搜索 - 原牛",
+          "href": "https://mihoyonb.com/pan-search",
+          "description": "聚合多个网盘平台资源，支持百度网盘、阿里云盘、天翼云盘、夸克网盘等多平台资源搜索，为自媒体创作者提供素材搜索服务",
+          "icon": "/assets/favicon_1759664676652.ico",
           "enabled": true
         },
         {
